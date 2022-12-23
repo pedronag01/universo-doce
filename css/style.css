@@ -129,7 +129,7 @@ section {
 }
 
 .slogan h1 {
-    font-size: 5rem;
+    font-size: 6rem;
     color: var(--primary-color);
     margin-top: 220px;
 }
@@ -548,6 +548,10 @@ section {
     h1 {
         font-size: 3rem !important;
     }
+    p{
+        font-size: 1.5rem;
+        text-align: center;
+    }
 
     span {
         font-size: inherit;
@@ -558,7 +562,7 @@ section {
     }
 
     .about {
-        background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQRhx5Nv1nit61GcITfqSATdC5dJWeE8BK8n4AP89ZBi_S17NOGxJ9pJFF8TRPLKxp0xXj84MSyY8ZLz5QHv_LeBzMY2ukgCCr5E7dWnQm7zcX1N01EDNbOa-pl_DFswYQEoHuFMzUHLKuLhR0jNNJQQQUhIvrPHK-9Lzy8lUC_XlaOHk6vZZxiT7H/s2000/bolo-de-pote-6.jpg);
+        background-image: url(https://minutocriadordigital.com.br/wordpress/wp-content/files/minutocriadordigital.com.br/2020/06/aprenda-como-fazer-bolo-de-pote-passo-a-passo.jpg);
         background-attachment: fixed;
     }
 
