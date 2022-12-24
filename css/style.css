@@ -129,10 +129,9 @@ section {
 }
 
 .slogan h1 {
-    font-size: 8rem;
+    font-size: 6rem;
     color: var(--primary-color);
     margin-top: 220px;
-    text-align: center;
 }
 
 .slogan button {
