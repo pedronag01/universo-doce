@@ -132,6 +132,7 @@ section {
     font-size: 8rem;
     color: var(--primary-color);
     margin-top: 220px;
+    text-align: center;
 }
 
 .slogan button {
